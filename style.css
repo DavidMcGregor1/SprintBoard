@@ -42,5 +42,20 @@
     outline: none;
 }
 
+#task-form button {
+    padding: 12px 32px;
+
+    border-radius: 4px;
+    border: none;
+
+    box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.25);
+    background: #ffffff;
+    color: black;
+
+    font-weight: bold;
+    font-size: 14px;
+    cursor: pointer;
+}
+
 
 
